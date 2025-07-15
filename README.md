@@ -7,8 +7,8 @@
 
 ## 💼 Mes projets phares
 
-- 🔁 [Cemade](https://cemade.fr) – Web & Mobile avec React + NestJS + capacitor
-- 🔐 Night Watch – Plateforme qui permet à un club de handball amateur de partager les actualités du club et d'organiser des évènements privés avec ses supporters.
+- [Cemade](https://cemade.fr) – Web & Mobile avec React + NestJS + capacitor
+- [Night Watch](https://app-nw.pro) – Plateforme qui permet à un club de handball amateur de partager les actualités du club et d'organiser des évènements privés avec ses supporters.
 
 ---
 
