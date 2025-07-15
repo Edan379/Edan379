@@ -27,5 +27,5 @@
 
 ---
 
-![ping](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEdan379%2FEdan379&count_bg=%23769436&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=logins&edge_flat=false)
+![logins](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEdan379%2FEdan379&count_bg=%23769436&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=logins&edge_flat=false)
 
