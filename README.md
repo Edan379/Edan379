@@ -2,7 +2,6 @@
 
 👨‍💻 Développeur **Full-Stack Web & Mobile**  
 🎯 Spécialisé en **React, NestJS, MySQL, PostgreSQL Prisma**  
-📱 Créateur de [Cemade.fr](https://cemade.fr) – une plateforme d’entraide locale et nomade
 
 ---
 
