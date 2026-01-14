@@ -1,7 +1,7 @@
 # Salut, moi c’est Jordan ! 👋
 
 👨‍💻 Développeur **Full-Stack Web & Mobile**  
-🎯 Spécialisé en **React, NestJS, MySQL, PostgreSQL Prisma**  
+🎯 utilisant: **MySQL, PostgreSQL Prisma, NestJS, React, React-Native, Capacitor**  
 
 ---
 
@@ -16,7 +16,7 @@
 
 **Front-end** : React, TypeScript, Vite, Material UI, Framer Motion , React Bootstrap, Tailwind, Flowbite React
 **Back-end** : Node.js, NestJS, Prisma ORM, MySQL, PostgreSQL
-**Mobile** : Capacitor, Android Studio, Ionic
+**Mobile** : React-Native + Expo, react-native-paper, expo router, Capacitor, Android Studio, Ionic
 **DevOps** : Docker, OVH VPS, Vercel ,GitHub Actions, CI/CD
 
 ---
