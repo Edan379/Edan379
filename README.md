@@ -64,7 +64,7 @@ Docker, OVH VPS, Vercel, GitHub Actions, CI/CD
 
 ## 💼 Main projects
 
-### 🚀 [Cemade](https://cemade.fr)
+[Cemade](https://cemade.fr)
 A **Web & Mobile application** built with **React, NestJS and Capacitor**.
 
 Key aspects:
@@ -73,7 +73,7 @@ Key aspects:
 - Docker-based deployment & CI/CD
 - payment integration and access management
 
-### 🛡️ [Night Watch](https://app-nw.pro)
+[Night Watch](https://app-nw.pro)
 A web platform designed for an **amateur handball club**, allowing them to:
 - share club news
 - organize private events
