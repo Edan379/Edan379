@@ -74,6 +74,16 @@ Docker, OVH VPS, Vercel, GitHub Actions, CI/CD
 
 ## 💼 Main projects
 
+[Vybz5](https://vybz5.com/) – A collaborative web and Android mobile application for organizing events, discovering and booking DJs.
+
+- React + React Native + NestJS
+- Event creation with secure payment
+- Organizer/DJ coordination
+- DJ discovery and booking
+- Automatic duplicate track detection
+- Feedback
+- Public suggestions
+
 [Cemade](https://cemade.fr)
 A **Web & Mobile application** built with **React, NestJS and Capacitor**.
 
