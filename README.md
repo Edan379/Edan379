@@ -7,18 +7,28 @@
 
 ## 💼 Mes projets phares
 
-[Cemade](https://cemade.fr) – Web & Mobile avec React + NestJS + capacitor.
+[Vybz5](https://vybz5.com/) – Application web et mobile andorid collaborative pour organiser des évèements, découvrir et booker des DJ.
+- React + React-Native + NestJS
+- création d'évènement avec paiement sécurisé
+- coordination organisateur/DJ
+- découverte et bookage de DJ
+- détection automatique de doublon de morceaux
+- feedback
+- suggestion publiques
+
+[Cemade](https://cemade.fr) - Application qui permet un échange de service entre Nomade et Résident
+– Web & Mobile avec React + NestJS + capacitor
+
 Projet orienté produit, incluant :
 - architecture back-end robuste
 - logique métier complexe
 - déploiement Docker & CI/CD
 - intégration paiement et gestion des accès
   
-[Night Watch](https://app-nw.pro) – Plateforme qui permet à un club de handball amateur de partager les actualités du club et d'organiser des évènements privés avec ses supporters.
+[Night Watch](https://app-nw.pro) – Plateforme web qui permet à un club de handball amateur de partager les actualités du club et d'organiser des évènements privés avec ses supporters.
 - partager ses actualités
 - organiser des évènements privés
 - interagir avec ses supporters
-  
 ---
 
 ## 🧰 Stack technique
