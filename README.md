@@ -1,6 +1,6 @@
 # Salut, moi c’est Jordan ! 👋 version française
 
-👨‍💻 Développeur **Full-Stack Web & Mobile**  
+👨‍💻 Concepteur et développeur **Full-Stack Web & Mobile**  
 🎯 Stack : **MySQL, PostgreSQL, Prisma, NestJS, React, React Native, Capacitor** 
 
 ---
@@ -64,7 +64,7 @@ Docker, OVH VPS, Vercel, GitHub Actions, CI/CD
 
 # Hi, I’m Jordan 👋 english version
 
-👨‍💻 **Full-Stack Web & Mobile Developer**  
+👨‍💻 **Full-Stack Web & Mobile Developer and system Design**  
 🎯 Focused on building **modern, scalable and product-oriented applications**
 
 **Stack**:  
