@@ -1,7 +1,7 @@
 # Salut, moi c’est Jordan ! 👋 version française
 
 👨‍💻 Concepteur et développeur **Full-Stack Web & Mobile**  
-🎯 Stack : **MySQL, PostgreSQL, Prisma, NestJS, React, React Native, Capacitor** 
+🎯 Stack : **MySQL, PostgreSQL, Prisma, NestJS, React, React Native, Capacitor, Angular** 
 
 ---
 
@@ -68,7 +68,7 @@ Docker, OVH VPS, Vercel, GitHub Actions, CI/CD
 🎯 Focused on building **modern, scalable and product-oriented applications**
 
 **Stack**:  
-**MySQL, PostgreSQL, Prisma, NestJS, React, React Native, Capacitor**
+**MySQL, PostgreSQL, Prisma, NestJS, React, React Native, Capacitor, Angular**
 
 ---
 
